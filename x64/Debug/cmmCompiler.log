@@ -1,0 +1,14 @@
+﻿  Action.cpp
+  idInfo.cpp
+  lexical.cpp
+  LR1Analyzer.cpp
+D:\complieEXP\cmmCompiler\LR1Analyzer.cpp(103,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\complieEXP\cmmCompiler\LR1Analyzer.cpp(265,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\complieEXP\cmmCompiler\LR1Analyzer.cpp(288,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  nonTerminalSymbol.cpp
+  Production.cpp
+  Project.cpp
+  symbol.cpp
+  TerminalSymbol.cpp
+  正在生成代码...
+  cmmCompiler.vcxproj -> D:\complieEXP\cmmCompiler\x64\Debug\cmmCompiler.exe
